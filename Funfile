@@ -1,0 +1,2 @@
+RUNTIME nodejs10
+RUN npm install request-promise
